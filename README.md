@@ -1,1 +1,1 @@
-# fake-news
+dataset of machined-generated news
